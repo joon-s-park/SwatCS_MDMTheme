@@ -28,7 +28,7 @@ version 0.2 (26. Jan 2008)
 
 		<!-- background -->
 		<item type="rect">
-			<normal color="#2e3436"/>
+			<normal/>
 			<pos y="0" x="0" width="100%" height="100%"/>
                 </item>
 
