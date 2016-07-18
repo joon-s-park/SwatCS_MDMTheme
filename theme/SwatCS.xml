@@ -45,7 +45,7 @@ version 0.2 (26. Jan 2008)
                 <!-- container for clock -->
                 <item type="label" id="clock">
                         <pos anchor="e" x="98%" y="1%"/>
-                        <normal color="#9B9B9B" font="Sans Bold 14"/>
+                        <normal color="#FFFFFF" font="Inder Bold 14"/>
                         <!--  %c is the clock -->
                         <text>%c</text>
                 </item>
@@ -53,13 +53,13 @@ version 0.2 (26. Jan 2008)
                 <!-- container for hostname -->
                 <item type="label" id="hostname">
                         <pos anchor="e" x="98%" y="3%"/>
-                        <normal color="#cccccc" font="Sans Bold 14"/>
+                        <normal color="#FFFFFF" font="Inder Bold 14"/>
                         <text>%n</text>
                 </item>
 
 		<!-- container for the buttons -->
 		<item type="rect">
-			<pos x="50%" y="45%" width="180" height="80" anchor="ne"/>
+			<pos x="50%" y="50%" width="180" height="80" anchor="ne"/>
 			<box orientation="vertical">
 
 				<item type="rect">
@@ -103,7 +103,7 @@ version 0.2 (26. Jan 2008)
 		</item>
 
 		<item type="rect">
-			<pos x="50%" y="45%" width="200" height="100" anchor="nw"/>
+			<pos x="50%" y="50%" width="200" height="100" anchor="nw"/>
 			<box orientation="vertical">
 
 				<!-- username label -->
