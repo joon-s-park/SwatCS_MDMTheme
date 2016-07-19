@@ -7,7 +7,6 @@ rattata
 ekans
 pikachu
 clefairy
-vulpix
 oddish
 jigglypuff
 diglett
@@ -39,5 +38,3 @@ slowpoke
 gastly
 onix
 staryu
-magikarp
-lapras
