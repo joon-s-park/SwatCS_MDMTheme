@@ -1,6 +1,6 @@
 [GdmGreeterTheme]
-Greeter=SwatCS.xml
-Name=SwatCS
+Greeter=Pokemon.xml
+Name=Pokemon
 Description=Simple theme
 Author=ORIGINALLY...Giuseppe Pantanetti <gpantanetti@gmail.com>
 Copyright=(c) 2008 Giuseppe Pantanetti
