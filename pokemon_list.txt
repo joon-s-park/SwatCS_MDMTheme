@@ -20,7 +20,7 @@ moltres
 articuno
 zapdos
 ditto
-meowth
+crabby
 dratini
 horsea
 eevee
